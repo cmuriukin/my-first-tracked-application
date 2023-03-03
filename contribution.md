@@ -4,3 +4,4 @@ Introduction to Branching
 we created a new branch named feasture-sms branch
 We are going to introduce merging
 stash .
+merge conflict
