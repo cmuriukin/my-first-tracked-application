@@ -6,4 +6,4 @@ We are going to introduce merging
 stash .
 merge conflict
 
-stash test
+stash tests
