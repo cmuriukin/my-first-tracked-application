@@ -5,4 +5,5 @@ This will the differences in my file
 Inroduction to branching.
 Created feature-sms branch
 
-merge conflict 
+merge conflict
+Introduction to stash 
