@@ -6,4 +6,4 @@ Inroduction to branching.
 Created feature-sms branch
 
 merge conflict
-Introduction to stash 
+Introduction to stashs
